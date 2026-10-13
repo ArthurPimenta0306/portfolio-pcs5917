@@ -1,0 +1,7 @@
+# Dados de áudio da Aula 3 (ASVspoof5) -- pesados, não versionar
+data/flac_sample/
+
+# Comuns
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
